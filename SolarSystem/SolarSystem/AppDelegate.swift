@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SolarSystem
 //
-//  Created by Daniel Jin on 1/4/18.
-//  Copyright © 2018 Daniel Jin. All rights reserved.
+//  Created by Daniel Jin on 9/12/17.
+//  Copyright © 2017 Daniel Jin. All rights reserved.
 //
 
 import UIKit
